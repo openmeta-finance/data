@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "axios": "^0.27.2",
+    "lowdb": "1.0.0"
+  },
+  "name": "data",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
